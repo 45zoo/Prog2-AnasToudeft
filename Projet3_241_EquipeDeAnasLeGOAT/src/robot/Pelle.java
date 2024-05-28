@@ -1,3 +1,10 @@
+/**
+ * Cours 420-241-AH. H2024. Prof: N. Grenon
+ * TP 3
+ * Auteurs : Anas Toudeft, Jeremy Jay Bentley, Farhat Farhat, Adam Boujendar
+ * Derniere modification : 2024-05-27
+ */
+
 package robot;
 
 public class Pelle extends Action {
